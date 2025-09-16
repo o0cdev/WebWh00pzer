@@ -1,0 +1,5 @@
+requests
+colorama
+urllib3
+beautifulsoup4
+urllib3==2.0.4
