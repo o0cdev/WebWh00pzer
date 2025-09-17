@@ -1,4 +1,4 @@
-# WebWh00pzer - Advanced Web Vulnerability Scanner
+# WebWh00pzer 
 
 
 **The Most Powerful Web Vulnerability Scanner Ever Created**
