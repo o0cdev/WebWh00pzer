@@ -10,8 +10,8 @@ Created by: **o0c**
 ## Showcase 
 
 ![showcase](https://raw.githubusercontent.com/o0cdev/WebWh00pzer/refs/heads/main/edit1.png)
-![showcase]([github.com/o0cdev/webwh00pzer/blob/main/edit2.png?raw=true](https://raw.githubusercontent.com/o0cdev/WebWh00pzer/refs/heads/main/edit2.png))
-![showcase]([github.com/o0cdev/webwh00pzer/blob/main/edi3.png?raw=true](https://raw.githubusercontent.com/o0cdev/WebWh00pzer/refs/heads/main/edi3.png))
+![showcase]([https://raw.githubusercontent.com/o0cdev/WebWh00pzer/refs/heads/main/edit3.png))
+![showcase]([https://raw.githubusercontent.com/o0cdev/WebWh00pzer/refs/heads/main/edit2.png))
 ![showcase](https://raw.githubusercontent.com/o0cdev/WebWh00pzer/refs/heads/main/edi4.png)
 
 
